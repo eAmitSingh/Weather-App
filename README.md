@@ -27,7 +27,7 @@ Technologies Used
 
 Getting Started
 To get your project up and running locally, follow these steps:
-1. Clone this repository:- => git clone https://github.com/eAmitSingh/Weather-App 
+1. Clone this repository:- => git clone https://github.com/eAmitSingh/Weather-App.git 
 2. Navigate to the project directory: => cd react-weather-app
 
 3. Install the necessary dependencies: npm install  
